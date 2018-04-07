@@ -35,7 +35,7 @@ class MyClass2() {
 
 fun main(args: Array<String>) {
 
-    println("Hello world!")
+    println("Hello world!!!")
     Thread.sleep(1000)
 
     val a = MyClass1()
